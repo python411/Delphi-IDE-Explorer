@@ -1,7 +1,10 @@
+ #Al intelligence
 # Auto detect text files and perform LF normalization
 * text=auto
 
-# Custom for Visual Studio
+
+# Custom for Visual Studio 
+       see
 *.cs     diff=csharp
 
 # Standard to msysgit
